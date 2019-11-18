@@ -1,6 +1,4 @@
-package AA;
-
-public class P100 {
+public class Damerau-LevenssteinOps {
     
     public static int argMin(int swap, int insert, int delete){
         if(swap <= insert && swap <= delete){
